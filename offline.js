@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512939985,
+	"version": 1515462902,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -172,6 +172,8 @@
 		"images/sprite51-sheet0.png",
 		"images/action_way-sheet0.png",
 		"images/a_director-sheet0.png",
+		"images/kick_splash-sheet0.png",
+		"images/texture-sheet0.png",
 		"media/alexberoza_-_rich.ogg",
 		"media/alexberoza_-_sunshine.ogg",
 		"icon-16.png",

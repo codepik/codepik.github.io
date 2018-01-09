@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1512939985
+#1515462902
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -171,6 +171,8 @@ images/sprite50-sheet0.png
 images/sprite51-sheet0.png
 images/action_way-sheet0.png
 images/a_director-sheet0.png
+images/kick_splash-sheet0.png
+images/texture-sheet0.png
 media/alexberoza_-_rich.ogg
 media/alexberoza_-_sunshine.ogg
 icon-16.png
